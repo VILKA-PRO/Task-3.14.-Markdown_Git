@@ -9,7 +9,7 @@
 ***
 <br>
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
    <td width="18%" valign="top" align="left"><img src="https://img.icons8.com/dotty/80/000000/ok.png" width=80/></td>
     <td>Просмотреть статус нужного репозитория можно по ключевому слову status: его действие распространяется на подготовленные, неподготовленные и неотслеживаемые файлы.</td>
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<table >
+<table  border="0" bordercolor="white">
   <tr>
     <td width=50%>
 

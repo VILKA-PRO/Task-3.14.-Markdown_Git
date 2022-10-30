@@ -9,7 +9,7 @@
 ***
 <br>
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
     <td align='left'><img src="https://img.icons8.com/ios-filled/50/000000/plus-2-math.png" width=80/></td>
     <td>Добавить отдельный файл в область подготовленных файлов можно параметром add с указанием имени файла. </td>
@@ -31,7 +31,7 @@
 
 <br><br>
 
-<table >
+<table border="0" bordercolor="white">
   <tr>
     <td width=50%>
 

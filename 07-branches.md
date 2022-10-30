@@ -15,7 +15,7 @@ Git предлагает облегченную реализацию веток 
 
 ## git branch
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
    <td width="15%" valign="top" align="left"><img src="https://img.icons8.com/cotton/64/000000/branching-arrows--v2.png" width=50/></td>
     <td valign="top" >
@@ -69,7 +69,7 @@ Git предлагает облегченную реализацию веток 
 
 <br><br>
 
-<table >
+<table border="0" bordercolor="white">
   <tr>
     <td width=50%>
 

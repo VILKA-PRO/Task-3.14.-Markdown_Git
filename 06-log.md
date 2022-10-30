@@ -9,7 +9,7 @@
 ***
 <br>
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
    <td width="15%" valign="top" align="left"><img src="https://img.icons8.com/external-basicons-line-edtgraphics/100/000000/external-Commit-Git-coding-basicons-line-edtgraphics-2.png" width=50/></td>
     <td valign="top" >Просматривать изменения, внесённые в репозиторий, можно с помощью параметра log.
@@ -25,7 +25,7 @@
 
 <br><br>
 
-<table >
+<table border="0" bordercolor="white">
   <tr>
     <td width=50%>
 

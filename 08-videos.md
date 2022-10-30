@@ -9,7 +9,7 @@
 ***
 <br>
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
    <td width="25%" valign="top" align="left">
    
@@ -32,7 +32,7 @@
 
 <br><br>
 
-<table >
+<table border="0" bordercolor="white">
   <tr>
     <td width=50%>
 

@@ -9,7 +9,7 @@
 ***
 <br>
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
     <td width="18%" valign="top" align="left"><img src="https://img.icons8.com/dotty/80/000000/initial-state.png" width=80/></td>
     <td>Создать пустой репозиторий Git или вновь инициализировать существующий можно параметром init. 
@@ -27,7 +27,7 @@
 <!--Footer-->
 <br><br>
 
-<table >
+<table  border="0" bordercolor="white">
   <tr>
     <td width=40%>
 

@@ -9,7 +9,7 @@
 ***
 <br>
 
-<table>
+<table border="0" bordercolor="white">
   <tr>
     <td width="18%" valign="top" align="left"><img src="https://img.icons8.com/dotty/160/000000/v-live.png" width=80/></td>
     <td>Имя пользователя нужно, чтобы привязывать коммиты к вашему имени. Это не то же самое, что имя пользователя учётной записи GitHub, с помощью которого выполняется вход в профиль на GitHub. </td>
@@ -29,7 +29,7 @@
 <!--Footer-->
 <br><br>
 
-<table >
+<table border="0" bordercolor="white">
   <tr>
     <td width=40%>
 
